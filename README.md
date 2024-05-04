@@ -20,6 +20,6 @@
 <button>
   <onclick>
       <a href="https://paypal.me/toxicsynapse">    
+      <img src="https://steamuserimages-a.akamaihd.net/ugc/1755816788602070411/3813F41D33A4C7FCAA0D8159E98E3A0493853CD8/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="AnimeDance" width="100" height="100">
   </onclick>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1755816788602070411/3813F41D33A4C7FCAA0D8159E98E3A0493853CD8/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="AnimeDance" width="100" height="100">
 </button>
